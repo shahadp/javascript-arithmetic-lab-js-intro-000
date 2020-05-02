@@ -2,15 +2,23 @@ function add(a,b)
 {
 
 }
-function subtract()
+function subtract(a,b)
 {
 
 }
-function multiple()
+function multiple(a,b)
 {
 
 }
-function divide()
+function divide(a,b)
+{
+
+}
+function increment(n)
+{
+
+}
+function decrement(n)
 {
 
 }
